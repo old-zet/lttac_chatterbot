@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+"""Construct a French-speaking Chatterbot
+to help out the new students at the LTTAC 
+Master's (Lille, France) having a hard time
+understanding the complex terminology behind it.
+"""
+
 # import files
 from flask import Flask, render_template, request
 from chatterbot import ChatBot
