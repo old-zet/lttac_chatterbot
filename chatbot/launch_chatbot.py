@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-"""Construct a French-speaking Chatterbot
+"""Construct an online French-speaking Chatterbot
 to help out the new students at the LTTAC 
-Master's (Lille, France) having a hard time
+Master's degree (Lille, France) having a hard time
 understanding the complex terminology behind it.
 """
 
