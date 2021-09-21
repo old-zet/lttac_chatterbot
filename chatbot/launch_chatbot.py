@@ -7,7 +7,6 @@ Master's degree (Lille, France) having a hard time
 understanding the complex terminology behind it.
 """
 
-# import files
 from flask import Flask, render_template, request
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
